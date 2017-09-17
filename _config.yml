@@ -82,7 +82,7 @@ author:
   name             : "A. Tegegne"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am just a regular person."
-  location         : "Austin, TX / Nepean, ON"
+  location         : "Austin, TX"
   email            :
   uri              :
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tegegne"
+  github           : "tegegne"
   gitlab           :
   google_plus      :
   keybase          :
